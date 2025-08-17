@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Finsage_rough_architecture_1" src="https://github.com/user-attachments/assets/2d56e17e-2b9b-4cbb-afa8-382d19fe076d" /># FinSage - Financial Insight and Risk Advisor
 To help fintech firms and users: 
 1) Analyze financial health using real-time and historical data of transactions.
 2) Detect anomalies in transactions or spending.
