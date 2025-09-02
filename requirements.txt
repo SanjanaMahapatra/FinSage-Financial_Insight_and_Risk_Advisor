@@ -35,3 +35,7 @@ pytest-asyncio==0.21.1
 
 # Documentation
 sphinx==7.1.1
+
+
+# Install kaggle api for downloading datasets
+kaggle
