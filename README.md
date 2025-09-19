@@ -12,5 +12,5 @@ Practical use case to be delivered from this project is given as follows -
 
 The following is the expected architectural diagram describing the flow of the FinSage Project is as below -
 
-<img width="1536" height="1024" alt="Finsage_rough_architecture_1" src="https://github.com/user-attachments/assets/3ec551e7-ad71-43a5-8d96-e01202e6f09d" />
+<img width="1536" height="1024" alt="Finsage_rough_architecture_1" src="https://github.com/SanjanaMahapatra/FinSage-Financial_Insight_and_Risk_Advisor/blob/main/Finsage_rough_architecture_1.png" />
 
