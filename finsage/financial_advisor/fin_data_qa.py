@@ -76,7 +76,7 @@ pandas_prompt_user_data = PromptTemplate(pandas_prompt_str).partial_format(
 )
 
 pandas_output_parser = PandasInstructionParser(cust_data)
-response_synthesis_prompt = PromptTemplate(response_synthesis_prompt_str).partial_format
+response_synthesis_prompt = PromptTemplate(response_synthesis_prompt_str).partial_format(user_data_dict=user_data_dict)
 
 # defining a pandas query engine
 query_engine = PandasQueryEngine(
