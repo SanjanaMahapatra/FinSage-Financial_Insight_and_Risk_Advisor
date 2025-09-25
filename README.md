@@ -14,3 +14,5 @@ The following is the expected architectural diagram describing the flow of the F
 
 <img width="1536" height="1024" alt="Finsage_rough_architecture_1" src="https://github.com/SanjanaMahapatra/FinSage-Financial_Insight_and_Risk_Advisor/blob/main/Finsage_rough_architecture_1.png" />
 
+The study also aims to find out how AI used in Finance can affect the Profitability on the various financial services, by analysing the Profitability Ratios such as P-E Ratio, EPS, ROE, ROA. 
+The study also highlights the impact of AI have on the Leverage Ratios such as Debt-To-Equity Ratio, Debt-Ratio etc by selecting few private and public sector banks and insurance companies. 
