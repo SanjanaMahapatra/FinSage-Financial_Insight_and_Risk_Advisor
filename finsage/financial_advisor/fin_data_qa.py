@@ -31,8 +31,8 @@ llm = OpenAI(model="gpt-4o-mini", temperature=0.1)
 
 # loading the data
 
-cust_data = pd.read_csv("./artifacts/cat.csv")
-user_data = pd.read_csv("./artifacts/user_info.csv")
+cust_data = pd.read_csv("../artifacts/cat.csv")
+user_data = pd.read_csv("../artifacts/user_info.csv")
 user_data_dict = user_data.to_dict(orient='records')
 
 # prompts
